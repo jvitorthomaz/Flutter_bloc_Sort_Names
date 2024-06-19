@@ -1,0 +1,4 @@
+#Wed Jun 19 19:46:22 BRT 2024
+base.0=/Users/vitorthomaz/Desktop/Projetos/Flutter_Projects/Flutter_bloc_Sort_Names/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
